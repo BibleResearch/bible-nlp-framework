@@ -15,7 +15,6 @@ Polarity†: 0.10086
 
 Subjectivity‡: 0.45558
 
-
 ## Most Common Noun Phrases in Genesis:
 
  * 199  -  god
@@ -25,8 +24,8 @@ Subjectivity‡: 0.45558
  * 133  -  abraham
  * 93   -  pharaoh
  * 81   -  isaac
- * 77   -  egypt
  * 77   -  esau
+ * 77   -  egypt
  * 58   -  abram
 
 
