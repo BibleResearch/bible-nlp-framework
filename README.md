@@ -1,9 +1,5 @@
 # Bible Natural Language Processing
 
-**Update (Sept. 2018):** I'm working on a big, new project that will provide a much better system for interacting with this kind of data. Stay tuned and feel free to [contact me](https://hightower.space/contact/) if you would like to know when this is ready.
-
----
-
 This repository contains a framework for performing natural language processing on the books of the Bible.
 
 Currently, there is only a [Jupyter](https://jupyter.org/) notebook and a zip archive with one translation in it (NASB). More will be coming soon.
